@@ -4,6 +4,7 @@ public class Returntypes
  {
 	
 	Integer amount = 1000;
+  //Git and commit and Push
 	
 	public Integer CollectionAmount() {
 		
